@@ -1,6 +1,6 @@
 ### Hi, I'm Maor
 
-Software engineering leader and architect. I build R&D teams and products, and I still enjoy writing code.
+Software engineering leader and architect. I build R&D teams and products, and I enjoy writing code.
 
 **Open source projects I created:**
 
